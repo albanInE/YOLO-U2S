@@ -10,6 +10,8 @@ key.json
 *.mf4
 *.tex
 *.ipynb
+launch.json
+*.xls
 .DS_Store
 debug_global/*
 debug_roi/*
