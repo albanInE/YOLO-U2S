@@ -9,6 +9,7 @@ key.json
 *.zip
 *.mf4
 *.tex
+*.ipynb
 .DS_Store
 debug_global/*
 debug_roi/*
