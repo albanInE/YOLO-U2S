@@ -1,0 +1,14 @@
+csv_data
+jpg_data
+key.json
+*.pyc
+*.jpg
+*.png
+*.csv
+*.cache
+*.zip
+*.mf4
+*.tex
+.DS_Store
+debug_global/*
+debug_roi/*
